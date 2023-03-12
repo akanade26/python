@@ -1,0 +1,9 @@
+List- A list is an oredered collection of data with elements seperated by a comma and enclosed within a square brackets.
+They are mutable and can be modified after creation.
+
+Tuple - A tuple is an ordered collection of data with elements seperated by comma and enclosed in an paranthesis.
+They are immutable and cannot be changed after creation.
+
+dict - A dictionary is an unordered collection of data containing a key, value pair. 
+The key value pairs are enclosed within curly brackets.
+
