@@ -1,0 +1,4 @@
+Python has different operators for different operations. 
+1.% - used to calculate remainder 
+2. // -  floor division operator; used to calculate the round off figure
+3. ** - exponential operator
